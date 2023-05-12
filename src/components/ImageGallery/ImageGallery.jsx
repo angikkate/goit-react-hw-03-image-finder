@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import PropTypes from 'prop-types';
 import ImageGalleryItem from 'components/ImageGalleryItem';
 import css from './ImageGallery.module.css';
